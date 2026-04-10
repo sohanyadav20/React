@@ -1,0 +1,58 @@
+.card {
+  width: 220px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 10px;
+  font-family: Arial;
+}
+
+.shoe-img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.brand {
+  color: gray;
+  margin: 5px 0;
+}
+
+.name {
+  font-size: 14px;
+}
+
+.price-box {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.price {
+  font-weight: bold;
+}
+
+.old-price {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.discount {
+  color: green;
+  font-weight: bold;
+}
+
+/* .deal {
+  background: #e6f4ea;
+  color: green;
+  padding: 4px;
+  width: fit-content;
+  margin-top: 5px;
+} */
+
+.size {
+  margin-top: 5px;
+  color: gray;
+}
+
+.sizes {
+  list-style: none;
+}

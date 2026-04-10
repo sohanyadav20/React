@@ -1,0 +1,63 @@
+.button {
+  display: inline-block;
+  margin-top: 5px;
+  margin-left: 30px;
+}
+.button0 {
+  height: 70px;
+  width: 150px;
+  margin: 20px;
+  background-color: rgb(23, 23, 23);
+  border: 1px solid #e7e7e7;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+}
+.button1 {
+  height: 70px;
+  width: 150px;
+  margin: 20px;
+  border-radius: 5px;
+  background-color: rgb(23, 23, 23);
+  border: 1px solid #e7e7e7;
+  font-size: 25px;
+  cursor: pointer;
+}
+.button2 {
+  height: 70px;
+  width: 150px;
+  margin: 20px;
+  background-color: rgb(23, 23, 23);
+  border-radius: 5px;
+  border: 1px solid #e7e7e7;
+  font-size: 20px;
+  cursor: pointer;
+  font-weight: bold;
+  font-style: italic;
+}
+.button3 {
+  height: 70px;
+  width: 150px;
+  margin: 20px;
+  background-color: rgb(23, 23, 23);
+  border-radius: 5px;
+  border: 1px solid #e7e7e7;
+  font-size: 25px;
+  cursor: pointer;
+}
+.button4 {
+  height: 70px;
+  width: 150px;
+  margin: 20px;
+  background-color: rgb(23, 23, 23);
+  border-radius: 5px;
+  border: 1px solid #e7e7e7;
+  font-size: 25px;
+  cursor: pointer;
+}
+p {
+  text-align: left;
+  margin-left: 125px;
+  margin-top: 80px;
+}
